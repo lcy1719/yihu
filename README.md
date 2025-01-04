@@ -1,7 +1,3 @@
-> **代码包运行启动成功！不管你有没有运行环境，哪怕你是刚买的新电脑，也包启动运行成功！有不懂的地方随便问！问到会为止！**
-## 源码获取（4.9米）：
-
-![微信图片_20241218164848](https://github.com/user-attachments/assets/f24e78bf-e15e-41b1-acb5-6bf9d49e1c78)
 
 
 ## 【功能介绍】
@@ -12,6 +8,9 @@
 ②：系统环境：Windows
 ③：开发环境：IDEA、JDK1.8、MySQL、Maven、node16
 ④：技术栈：Java、MySQL、SpringBoot、Mybatis、MySql、Vue、ElementUI**
+> **代码提供有偿远程调试，29包启动成功！不管你有没有运行环境，哪怕你是刚买的新电脑，也包启动运行成功！提供有偿讲解，有不懂的地方随便问！问到会为止！**
+## 源码获取（4.9元包含代码+数据库+有的送报告文档具体扫码询问，代码截图、功能效果截图在下面）：
+![微信图片_20241218164848](https://github.com/user-attachments/assets/646b2784-afb8-47ee-a4d4-5ccc9f96b331)
 ![image](https://github.com/user-attachments/assets/db98b3e8-558c-4d0c-af16-b62bf944f96a)
 ![image](https://github.com/user-attachments/assets/ff74bbd8-bb01-445c-bcc4-2181eec8cbb1)
 ![image](https://github.com/user-attachments/assets/558bd223-1fc7-4dcd-a86a-cb0d61fedf6b)
